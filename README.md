@@ -12,3 +12,4 @@ for example:
 
 Coordinates and Movement Speed information is obtained automatically from ToolPostCoords.csv, any updates to coordinates and speed should be made in that file.
  
+NEW COMMENT
